@@ -18,18 +18,6 @@ Ships from Texas. Open sourced after release.
 
 I document every product end to end. Schematic capture, PCB layout, firmware, enclosure design, manufacturing, the whole thing. 84K+ subs and growing.
 
-### 🔧 Featured projects
-
-| Project | What it is |
-|---|---|
-| [**Racer**](https://github.com/StuckAtPrototype/Racer) | Open source RC car platform. 3.7k+ stars. |
-| [**AirCube**](https://github.com/StuckAtPrototype/AirCube) | The full design files for the air quality sensor I sell. |
-| [**Thumbtroller**](https://github.com/StuckAtPrototype/Thumbtroller) | Tiny thumb sized game controller. |
-| [**PCB Business Card**](https://github.com/StuckAtPrototype/PCB_business_card_remake) | Functional electronics on a business card. |
-| [**MicroBit328**](https://github.com/StuckAtPrototype/MicroBit328) | ATmega328 based dev board in the BBC micro:bit form factor. |
-
-[See all repositories →](https://github.com/StuckAtPrototype?tab=repositories)
-
 ### 💬 Let's make cool stuff, together
 
 - 🌐 Website, [stuckatprototype.com](https://stuckatprototype.com)
