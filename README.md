@@ -1,4 +1,4 @@
-# Hi, I'm Damian, welcome to StuckAtPrototype 👋
+# Hi, I'm Damian! Welcome to StuckAtPrototype 👋
 
 I design and ship **open-source consumer hardware** out of Texas. No app. No cloud. Schematics, firmware, and design files all live right here on GitHub.
 
