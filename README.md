@@ -18,6 +18,9 @@ Ships from Texas. Open sourced after release.
 
 I document every product end to end. Schematic capture, PCB layout, firmware, enclosure design, manufacturing, the whole thing. 84K+ subs and growing.
 
+### 💬 Work with me
+[glinojecki.com](https://glinojecki.com)
+
 ### 💬 Let's make cool stuff, together
 
 - 🌐 Website, [stuckatprototype.com](https://stuckatprototype.com)
